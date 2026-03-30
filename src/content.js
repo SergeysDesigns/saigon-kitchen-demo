@@ -46,7 +46,7 @@ const siteContent = {
   images: {
     hero: "https://as2.ftcdn.net/jpg/04/39/56/23/1000_F_439562347_8UsuF9ByzTbCBabsrUCahbVzqm9GPHDN.jpg",
     about1: "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=800&q=80",
-    about2: "https://images.unsplash.com/photo-1562967916-eb82221dfb44?w=800&q=80",
+    about2: "ttps://as2.ftcdn.net/jpg/04/39/56/23/1000_F_439562347_8UsuF9ByzTbCBabsrUCahbVzqm9GPHDN.jpg",
     about3: "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=800&q=80",
     interior: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80",
     dish1: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pho-Beef-Noodles-2008.jpg/1280px-Pho-Beef-Noodles-2008.jpg",
